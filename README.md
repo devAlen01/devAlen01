@@ -1,4 +1,4 @@
-# Привет! 👋 Я Ален
+no# Привет! 👋 Я Ален
 
 **Веб-разработчик | Next.js | TypeScript**
 
@@ -23,8 +23,6 @@
     <a href="https://sass-lang.com/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
     <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.prisma.io/" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/6nvPGXs/prisma.png"/>&nbsp</a> 
-    <a href="https://vercel.com/" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/SJqKn0j/vercel-logo.png"/>&nbsp</a> 
 </p>
 
 ---
@@ -51,4 +49,4 @@
 
 ---
 
-*❤️*
+**AlenXDev💯**
