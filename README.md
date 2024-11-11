@@ -33,7 +33,7 @@
 ## 📫 Связаться со мной
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ваш-профиль)  
-[![GitHub](https://img.shields.io/badge/GitHub-ваш_логин-black?style=for-the-badge&logo=github)](https://github.com/ваш-логин)
+[![GitHub](https://img.shields.io/badge/GitHub-https://devAlen01-black?style=for-the-badge&logo=github)](https://github.com/devAlen01)
 
 ---
 
