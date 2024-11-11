@@ -1,5 +1,5 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Kiran1689 Banner Image](https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1049267674-Andrey-Suslov-e1676502561607.jpg?fit=1610%2C800&strip=all)
 
 <!--Night Owl image-->
 <div>
