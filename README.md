@@ -34,7 +34,7 @@
 - **Инструменты:** Git, Vercel, GitHub Actions
 
 ---
-## GitHub Stats
+## My GitHub Stats
 
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=devAlen01&theme=vue-dark&hide_border=true' />
@@ -52,7 +52,10 @@
 ## 📫 Связаться со мной
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ваш-профиль)  
-[![GitHub](https://img.shields.io/badge/GitHub-https://devAlen01-black?style=for-the-badge&logo=github)](https://github.com/devAlen01)
+[![GitHub](https://img.shields.io/badge/GitHub-https://devAlen01-black?style=for-the-badge&logo=github)](https://github.com/devAlen01)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+996700067684)  
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram)](https://t.me/alenx10)  
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/x.seven___/)
 
 ---
 
