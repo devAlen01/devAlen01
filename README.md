@@ -33,6 +33,10 @@
 - **Библиотеки и фреймворки:** Next.js, React, Zustand, Prisma ORM
 - **Инструменты:** Git, Vercel, GitHub Actions
 
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
+<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=devAlen01&theme=vue-dark&hide_border=true' />
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+
 ---
 
 ## 🌱 Чем я занимаюсь сейчас
