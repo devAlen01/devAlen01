@@ -5,7 +5,7 @@
 ---
 
 ## 🔍 Обо мне
-
+"display: flex; justify-content: center; align-items: center;"
 🌍 Я из Кыргызстана и увлечен веб-разработкой. Мой опыт сосредоточен на создании приложений с использованием Next.js, TypeScript. Я активно работаю над улучшением UX и производительности, а также люблю изучать новые инструменты и технологии.
 
 🚀 Мой текущий стек:
@@ -34,11 +34,10 @@
 - **Инструменты:** Git, Vercel, GitHub Actions
 
 <div style="display: flex; justify-content: center; align-items: center;">
-
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 <img width=400 src='https://github-readme-stats.vercel.app/api?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-</div>
 <img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=devAlen01&theme=vue-dark&hide_border=true' />
+</div>
+<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
 
 ---
 
