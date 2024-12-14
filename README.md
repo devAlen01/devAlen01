@@ -1,8 +1,7 @@
 # Привет! 👋 Я Ален
 
-**Frontend - разработчик | Next.js | TypeScript**
+**Frontend - разработчик | Next.js, React.js | TypeScript**
 
----
 
 ---
 
