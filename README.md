@@ -4,11 +4,6 @@
 
 ---
 
-
-🚀 Мой текущий стек:
-- **Frontend:** Next.js, React.js, JavaScript, TypeScript, Zustand, SCSS, RTK Query, Redux Toolkit, Prisma ORM
-
-
 ---
 
 <p align="left">
