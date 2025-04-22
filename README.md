@@ -1,60 +1,57 @@
-# Привет! 👋 Я Ален
+# Привет, я Ален!  
 
-** Next.js, React.js | TypeScript**
-
+Full Stack Web Developer | Next.js | TypeScript | Node.js | Docker
 
 ---
 
+## 🚀 Технологии и стек
+
 <p align="left">
-    <a href="https://nextjs.org/" target="_blank">&nbsp<img  width="45px" src="https://i.ibb.co/0ymcg1H/259-oooo-plus-removebg-preview.png"/>&nbsp</a>
-    <a href="https://www.typescriptlang.org/" target="_blank">&nbsp<img width="44px" src="https://i.ibb.co/myc6m6B/ica-FVm-C2-2x.jpg"/>&nbsp</a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">&nbsp<img width="44px" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>&nbsp</a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://sass-lang.com/" target="_blank">&nbsp<img width="51px" src="https://i.ibb.co/Z6kGf6Z/3.png"/>&nbsp</a> 
-    <a href="https://code.visualstudio.com/" target="_blank">&nbsp<img  width="44px"src="https://i.ibb.co/z65rXyV/vs-code.png"/>&nbsp</a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+  <a href="https://nextjs.org/" target="_blank"><img width="44" src="https://img.icons8.com/fluency/48/nextjs.png" alt="Next.js"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img width="44" src="https://img.icons8.com/ultraviolet/40/react--v1.png" alt="React"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/></a>
+  <a href="https://nodejs.org/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img width="44" src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/></a>
+  <a href="https://sass-lang.com/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/sass.png" alt="Sass"/></a>
+  <a href="https://www.prisma.io/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/prisma-orm.png" alt="Prisma"/></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img width="44" src="https://img.icons8.com/windows/48/data-in-both-directions.png" alt="Zustand"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/git.png" alt="Git"/></a>
+  <a href="https://vercel.com/" target="_blank"><img width="44" src="https://img.icons8.com/color/48/vercel.png" alt="Vercel"/></a>
 </p>
 
 ---
 
-## 🛠️ Мои навыки
+## 🧠 Навыки
 
-- **Языки:** TypeScript, JavaScript
-- **Библиотеки и фреймворки:** Next.js, React, Zustand, Prisma ORM
-- **Инструменты:** Git, Vercel, GitHub Actions
-
----
-## My GitHub Stats
-
-<img width=400 src='https://github-readme-stats.vercel.app/api?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
-<img width=400 src='https://github-readme-streak-stats.herokuapp.com/?user=devAlen01&theme=vue-dark&hide_border=true' />
-<img width=400 src='https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&theme=vue-dark&show_icons=true&hide_border=true&layout=compact' />
+- Языки: TypeScript, JavaScript, SQL
+- Фронтенд: Next.js, React, Zustand, Framer Motion, SCSS Modules
+- Бэкенд: Node.js, Express, Prisma ORM
+- DevOps: Docker, Vercel, GitHub Actions
+- Форматы данных: REST API, JSON, Markdown
 
 ---
 
----
+## 📈 GitHub Статистика
 
-## 📫 Связаться со мной
-
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
-  </a> -
-  <a href="https://github.codevAlen01" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" alt="GitHub">
-  </a> -
-  <a href="https://wa.me/+996700067684" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
-  </a> -
-  <a href="https://t.me/alenx10" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a> -
-  <a href="https://www.instagram.com/x.seven___/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
-</div>
-
+<p align="center">
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=devAlen01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=devAlen01&theme=tokyonight&hide_border=true" />
+  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-**AlenXDev💯**
+## 📬 Контакты
+
+<p align="left">
+  <a href="https://linkedin.com/in/ваш-профиль" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/devAlen01" target="_blank"><img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://t.me/alenx10" target="_blank"><img src="https://img.shields.io/badge/Telegram-связаться-blue?style=for-the-badge&logo=telegram" /></a>
+  <a href="https://wa.me/+996700067684" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-связаться-green?style=for-the-badge&logo=whatsapp" /></a>
+  <a href="https://www.instagram.com/x.seven___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-профиль-pink?style=for-the-badge&logo=instagram" /></a>
+</p>
+
+---
+
+> ⚡ Постоянно развиваюсь, работаю с современным стеком и стремлюсь к созданию масштабируемых, стабильных решений.  
+> Буду рад новым возможностям и интересным проектам.
