@@ -58,5 +58,4 @@
 ---
 
 > I'm focused on building scalable web applications using modern tools.  
-> Currently improving my backend skills and aiming to grow as a full-stack engineer.
 
