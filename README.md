@@ -48,7 +48,7 @@
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/alen-ermekuulu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/devAlen01" target="_blank"><img src="https://img.shields.io/badge/GitHub-devAlen01-black?style=for-the-badge&logo=github" /></a>
   <a href="https://t.me/alenx10" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" /></a>
   <a href="https://wa.me/+996700067684" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp" /></a>
