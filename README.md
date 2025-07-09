@@ -28,10 +28,7 @@
 ## 🧠 Skills
 
 - Languages: `TypeScript`, `JavaScript`, `HTML`, `CSS`
-- Frameworks & Libraries: `React`, `Next.js`, `Redux Toolkit`, `NestJS`, `Express`
-- Styling: `Sass`, `SCSS Modules`
-- Backend Tools: `Node.js`, `Prisma`
-- Other: `REST API`, `Docker`, `Git`, `GitHub`
+- Frameworks: `React`, `Next.js`, `Express`
 
 ---
 
