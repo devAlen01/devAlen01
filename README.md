@@ -35,15 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width=400 src="https://github-readme-stats.vercel.app/api?username=devAlen01&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-  <img width=400 src="https://github-readme-streak-stats.herokuapp.com?user=devAlen01&theme=tokyonight&hide_border=true" />
-  <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=devAlen01&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## 📬 Contact Me
 
@@ -54,8 +45,4 @@
   <a href="https://wa.me/+996700067684" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Message-green?style=for-the-badge&logo=whatsapp" /></a>
   <a href="https://www.instagram.com/x.seven___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" /></a>
 </p>
-
----
-
-> I'm focused on building scalable web applications using modern tools.  
 
